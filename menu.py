@@ -1,4 +1,4 @@
-from kivy.uix.relativelayout import RelativeLayou
+from kivy.uix.relativelayout import RelativeLayout
 
 
 class MenuWidget(RelativeLayout):
