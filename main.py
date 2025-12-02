@@ -54,7 +54,7 @@ class MainWidget(RelativeLayout):
     state_game_over = False
     state_game_has_started = False
 
-    menu_title = StringProperty("V E N T U R E")
+    menu_title = StringProperty("S K R T")
     menu_button_title = StringProperty("START")
     score_txt = StringProperty()
 
